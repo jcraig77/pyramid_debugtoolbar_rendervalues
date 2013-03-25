@@ -1,0 +1,21 @@
+Metadata-Version: 1.0
+Name: pyramid-debugtoolbar-rendervalues
+Version: 0.1
+Summary: Pyramid debugtoolbar extension for displaying                    values available in a renderer
+Home-page: UNKNOWN
+Author: Jay Craig
+Author-email: jcraig77@gmail.com
+License: UNKNOWN
+Description: pyramid_debugtoolbar_rendervalues README
+        
+        
+        0.0
+        ---
+        
+        -  Initial version
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Framework :: Pyramid
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Application

@@ -1,0 +1,13 @@
+CHANGES.txt
+MANIFEST.in
+README.txt
+setup.py
+pyramid_debugtoolbar_rendervalues/__init__.py
+pyramid_debugtoolbar_rendervalues/rendervalues.py
+pyramid_debugtoolbar_rendervalues.egg-info/PKG-INFO
+pyramid_debugtoolbar_rendervalues.egg-info/SOURCES.txt
+pyramid_debugtoolbar_rendervalues.egg-info/dependency_links.txt
+pyramid_debugtoolbar_rendervalues.egg-info/not-zip-safe
+pyramid_debugtoolbar_rendervalues.egg-info/requires.txt
+pyramid_debugtoolbar_rendervalues.egg-info/top_level.txt
+pyramid_debugtoolbar_rendervalues/templates/renderpanel.pt
