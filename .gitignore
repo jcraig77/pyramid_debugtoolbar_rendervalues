@@ -1,0 +1,7 @@
+# Python
+*.pyc
+.pydevproject
+*.egg-info/*
+.settings/*
+.DS_Store
+*.project
