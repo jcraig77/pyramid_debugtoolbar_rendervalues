@@ -1,4 +1,0 @@
-<tal:block repeat="(key,value) vars.items()">
-    <strong>${key}</strong> <br />
-    <pre>${value}</pre><br />
-</tal:block>
